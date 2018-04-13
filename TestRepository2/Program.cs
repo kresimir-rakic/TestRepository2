@@ -6,7 +6,8 @@ namespace TestRepository2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Novi repozitorij!");
+            Console.WriteLine("I nova izmjena u njemu.");
         }
     }
 }
